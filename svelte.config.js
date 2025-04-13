@@ -12,6 +12,9 @@ const config = {
 			strict: true,
 		}),
 		appDir: '_app',
+		build: {
+			assetsDir: '_app'
+		},
 		paths: {
 			base: '/Hueku' // Use paths.base instead of base directly
 		}
