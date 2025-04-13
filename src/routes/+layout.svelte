@@ -1,5 +1,6 @@
 <script lang="js">
     import { base } from "$app/paths";
+    import "../app.css"
 </script>
 
 <nav>
