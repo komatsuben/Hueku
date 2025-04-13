@@ -36,8 +36,7 @@ Modern web development tools often come with bloated interfaces, distracting ads
 ### Installation
 Hueku is a web-based tool, so there's no installation needed. Simply visit:
 
-[Insert Hueku Website Link Here]
-
+[https://t.ly/hueku] or [https://komatsuben.github.io/Hueku/]
 ### Usage
 1. Navigate to the Hueku website.
 2. Use the **Color Palette Generator** to create a new palette or start with the **Color Wheel** to pick a base color.
@@ -68,7 +67,7 @@ Future features we're excited about:
 - Advanced color harmony algorithms
 - Community-driven palette sharing
 
-Have ideas? Share them in the [Issues]([Insert Issues Link]) section!
+Have ideas? Share them in the [Issues]([https://github.com/komatsuben/Hueku/issues]) section!
 
 ---
 
@@ -80,7 +79,7 @@ A huge shoutout to [Refactoring UI](https://www.refactoringui.com/) for their in
 
 ## Author
 
-Created by [@Komatsuben]([Insert Profile Link])
+Created by [@Komatsuben]([https://github.com/komatsuben])
 
 ---
 
@@ -93,9 +92,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 Have questions or feedback? Reach out via:
-- Email: [Insert Email]
+- Email: [work.benedicthalim1@gmail.com]
 - X: [@Komatsuben]([Insert X Profile])
-- Issues: [Insert Issues Link]
+- Issues: [[Hueku Issues](https://github.com/komatsuben/Hueku/issues)]
 
 ---
 
