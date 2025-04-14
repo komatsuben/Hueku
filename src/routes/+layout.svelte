@@ -1,6 +1,6 @@
 <script lang="js">
     import { base } from "$app/paths";
-    import "../app.css"
+    import "../app.css";
 </script>
 
 <nav>
@@ -19,12 +19,6 @@
         padding: 1rem;
         display: flex;
         gap: 1rem;
-    }
-
-    main {
-        max-width: 40rem;
-        margin: auto;
-        padding: 0 1rem;
     }
 
     main > *:not(:last-child) {
